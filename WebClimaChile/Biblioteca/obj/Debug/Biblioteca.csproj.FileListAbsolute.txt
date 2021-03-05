@@ -1,0 +1,6 @@
+C:\Users\aleja\Desktop\Proyectos C#\WebClimaChile\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\aleja\Desktop\Proyectos C#\WebClimaChile\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\aleja\Desktop\Proyectos C#\WebClimaChile\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\aleja\Desktop\Proyectos C#\WebClimaChile\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\Proyectos C#\WebClimaChile\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\aleja\Desktop\Proyectos C#\WebClimaChile\Biblioteca\obj\Debug\Biblioteca.pdb
